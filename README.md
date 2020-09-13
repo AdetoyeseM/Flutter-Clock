@@ -5,6 +5,7 @@ An Alalog Clock Designed using Flutter
 - Custom paint
 - Neumophoric Designs
 - Dark and Light Mode  
+- Location Tracker
 
  ![flutter_01](https://user-images.githubusercontent.com/34428244/92997281-045e7a00-f50a-11ea-9e59-ed59dd8eccb0.png) 
  
